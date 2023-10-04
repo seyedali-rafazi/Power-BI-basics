@@ -41,6 +41,13 @@ Creating data models is crucial for meaningful analysis. I've practiced:
 - **Hierarchies**: Building hierarchies for drilling down into data.
 - **Row-level Security**: Implementing security for sensitive data.
 
+## Visualizations
+
+Visualizations breathe life into data. I've explored:
+
+- **Chart Types**: Understanding when to use bar charts, line charts, pie charts, etc.
+- **Custom Visuals**: Incorporating custom visuals to enhance reports.
+- **Themes**: Applying themes to improve report aesthetics.
 
 ## DAX (Data Analysis Expressions)
 
